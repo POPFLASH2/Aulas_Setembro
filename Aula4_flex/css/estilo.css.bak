@@ -1,0 +1,22 @@
+.container{
+  display:flex;
+  flex-direction:row;
+  justify-content:space-around; 
+  border:solid 1px;
+  background-color:#c0c0c0;
+  align-items:center;
+  
+}
+.item{
+	font-size:20px;
+	color:lime;
+	flex-wrap:wrap;
+}
+.item1 {
+	font-size:80px;
+	color:purple;
+}
+.item2 {
+	align-self:end;
+	
+}

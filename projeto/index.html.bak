@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <title>FlexTurismo</title>
+    <link type="text/css" href ="css/estilo.css" rel="stylesheet"></href>
+</head>
+<body>
+    <div class="container1">
+    <div class ="item1" >FlexTurismo</div>
+    <div class="item2"><a href="">Quem somos</a></div>
+    <div class="item2">Serviços</div>
+    <div class="item2">Planos</div>
+
+</div>
+<img class="img1" src="img/turismo.jpg">
+    <div class="container2">
+        <div class="item3">Flex 
+            <br>Turismo
+        </div>
+        <div class="item4">O melhor serviço para
+            <br> você!</div>
+      
+        <div class="item6">Saiba mais!</div>
+    </div>
+    
+  
+
+    <div class="container3">
+    <div>@ 2022 CSS Flexbox</div>
+    <div>Desenvolvido por: Gustavo Santana e Victor </div>
+    </div>
+</body>
+</html>
